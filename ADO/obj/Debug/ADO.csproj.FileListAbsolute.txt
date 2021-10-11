@@ -1,0 +1,12 @@
+D:\dot Net\ADO\ADO\bin\Debug\ADO.exe.config
+D:\dot Net\ADO\ADO\bin\Debug\ADO.exe
+D:\dot Net\ADO\ADO\bin\Debug\ADO.pdb
+D:\dot Net\ADO\ADO\bin\Debug\MySql.Data.dll
+D:\dot Net\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+D:\dot Net\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\dot Net\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\dot Net\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\dot Net\ADO\ADO\obj\Debug\ADO.csproj.CopyComplete
+D:\dot Net\ADO\ADO\obj\Debug\ADO.exe
+D:\dot Net\ADO\ADO\obj\Debug\ADO.pdb
+D:\dot Net\ADO\ADO\obj\Debug\ADO.Form1.resources
